@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <script src="js/jquery-3.6.1.js"></script>
 </head>
-<body style="background-color: #ADD8E6;">
+<body style="background-color: #696969;">
 <?php include 'menu (1).php'?>
     <?php
       include 'conexion.php';

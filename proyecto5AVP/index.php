@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <script src="js/jquery-3.6.1.js"></script>
 </head>
-<body style="background-color:  ##ADD8E6;">
+<body style="background-color:  #8B0000;">
 <?php include 'menu (1).php'?>
     <br>
     <div class="container">
@@ -27,7 +27,12 @@
                          </ul>
                     </p>
                     <hr class="my-4">
-                    <p>Esta práctica pertenece al parcial #1</p>
+                    <div aling="LEFT"><IMG SRC="https://www.cetis107.edu.mx/admision/images/logo.png" ALIGN=RIGHT HSPACE=1  width="800" height="200"></div>
+                    <p>Esta práctica pertenece al parcial #2</p>
+                    <p>By Lydia Arlett Valdes Delgado</p>
+                    <p>5AVP</p>
+                    <p>Profesor Luis Carlos Santillan</p><br><br><br>
+
                   </div>
             </div>
         </div>
